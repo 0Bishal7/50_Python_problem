@@ -210,16 +210,12 @@ Feel free to contribute by adding more coding challenges or improving the existi
 
 ---
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Let's Connect! 💬
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/bishal-roy-21756a241/)
+- [Portfolio](https://github.com/0Bishal7)
 
 ---
 
