@@ -1,4 +1,5 @@
-# Write a Python program to find the second largest number in a list.
+# 10.Write a Python program to find the second largest number in a list.
+
 def second_largest(l):
     unique_list = list(set(l))
     unique_list.sort()
@@ -18,3 +19,4 @@ def sec_large(l):
     return second
 
 print(sec_large([3,4,9,12,34,15]))
+

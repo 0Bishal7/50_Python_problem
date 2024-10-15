@@ -1,4 +1,4 @@
-# Write a program to find the factorial of a number using recursion.
+# 3.Write a program to find the factorial of a number using recursion.
 
 def factorial(n):
     if n == 0 or n == 1:
@@ -8,3 +8,10 @@ def factorial(n):
 
 
 print(factorial(5))
+
+#Alternative
+def factorial_iterative(n):
+    result=1
+    for i in range(2,n+1):
+        result *=i
+    return result

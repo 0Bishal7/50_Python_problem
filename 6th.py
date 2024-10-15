@@ -1,4 +1,4 @@
-# How can you generate a random number in Python?
+# 6.How can you generate a random number in Python?
 
 import random
 

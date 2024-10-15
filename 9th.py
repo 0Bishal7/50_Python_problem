@@ -1,4 +1,4 @@
-# Write a program to remove duplicates from a list.
+# 9.Write a program to remove duplicates from a list.
 
 def r_duplicates(l):
  return list(set(l))
@@ -16,3 +16,4 @@ def remove_duplicates(l):
     return list
 
 print(remove_duplicates([4,5,7,98,8,98]))
+

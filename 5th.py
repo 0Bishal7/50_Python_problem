@@ -1,4 +1,4 @@
-# Write a program to check if a given number is prime.
+# 5.Write a program to check if a given number is prime.
 
 def is_prime(n):
     if n <=1:

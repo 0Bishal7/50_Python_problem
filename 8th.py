@@ -1,4 +1,4 @@
-# Write a program to calculate the sum of all the items in a list.
+# 8.Write a program to calculate the sum of all the items in a list.
 
 def sum_list(lst):
     return sum(lst)
@@ -13,3 +13,4 @@ def sum_of_list(l):
         total += num
     return total
 print(sum_of_list([5,8]))
+

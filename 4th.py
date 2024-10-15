@@ -1,8 +1,8 @@
-# Create a program that takes a string as input and prints its reverse.
+# 4.Create a program that takes a string as input and prints its reverse.
 def reverse_string(s):
     return s[::-1]
 
-print(reverse_string("Hello"))
+print(reverse_string("Hello0"))
 
 # Explanation: [::-1] is slicing syntax to reverse the string.
 

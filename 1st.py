@@ -1,6 +1,6 @@
 #  Basic Syntax and Data Types
 
-# Write a program to check if a number is even or odd.
+#1.Write a program to check if a number is even or odd.
 
 
 def check_function_odd_or_even(number):
