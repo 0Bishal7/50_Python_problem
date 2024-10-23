@@ -6,21 +6,7 @@ def is_palindrome(s):
             return False
     return True
 
-print(is_palindrome("madam"))  # Output: True
-
-
-def is_palindrome(s):
-    length=len(s)
-    for i in range(length//2):
-        if s[i] != s[length -i-l]:
-            return False
-    return True
-
-
-
-
-
-
+print(is_palindrome("madam"))  
 
 
 # Alternative
